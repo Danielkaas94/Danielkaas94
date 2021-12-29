@@ -8,11 +8,16 @@
 
 [<img width="70" src="https://i0.wp.com/multarte.com.br/wp-content/uploads/2020/05/classic-youtube-icon-2.png?fit=512%2C512&ssl=1">](https://www.youtube.com/c/Danielkaas94) 
     
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielkaas94)](https://github.com/anuraghazra/github-readme-stats)
+   
+  
 </div>
 
 <p align='center'>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielkaas94&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
 
+
+    
 ### [☯ David Lynch explains Transcendental Meditation ☯](https://youtu.be/Em3XplqnoF4)
 
 
