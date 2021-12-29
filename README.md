@@ -10,6 +10,8 @@
     
 [<img width="95" src="https://cdn.freebiesupply.com/images/large/2x/duolingo-logo-transparent.png">](https://www.duolingo.com/profile/Danielkaas94) 
 
+[<img width="350" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Codecademy.svg">](https://www.codecademy.com/profiles/Danielkaas94) 
+
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielkaas94)](https://github.com/anuraghazra/github-readme-stats)
    
