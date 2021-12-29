@@ -8,6 +8,9 @@
 
 [<img width="70" src="https://i0.wp.com/multarte.com.br/wp-content/uploads/2020/05/classic-youtube-icon-2.png?fit=512%2C512&ssl=1">](https://www.youtube.com/c/Danielkaas94) 
     
+[<img width="95" src="https://cdn.freebiesupply.com/images/large/2x/duolingo-logo-transparent.png">](https://www.duolingo.com/profile/Danielkaas94) 
+
+    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielkaas94)](https://github.com/anuraghazra/github-readme-stats)
    
   
