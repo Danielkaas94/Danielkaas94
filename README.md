@@ -12,6 +12,8 @@
 
 [<img width="350" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Codecademy.svg">](https://www.codecademy.com/profiles/Danielkaas94) 
 
+[<img width="350" src="https://www.codewars.com/users/Danielkaas94/badges/large">](https://www.codewars.com/users/Danielkaas94) 
+
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielkaas94&show_icons=true&theme=midnight-purple&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
    
@@ -26,6 +28,7 @@
     
 ### [☯ David Lynch explains Transcendental Meditation ☯](https://youtu.be/Em3XplqnoF4)
 
+    
 
 <!--
 
