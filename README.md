@@ -10,6 +10,8 @@
     
 [<img width="95" src="https://cdn.freebiesupply.com/images/large/2x/duolingo-logo-transparent.png">](https://www.duolingo.com/profile/Danielkaas94) 
 
+[<img width="350" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg">](https://stackoverflow.com/users/6662872/daniel-kaas) 
+    
 [<img width="350" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Codecademy.svg">](https://www.codecademy.com/profiles/Danielkaas94) 
 
 [<img width="350" src="https://www.codewars.com/users/Danielkaas94/badges/large">](https://www.codewars.com/users/Danielkaas94) 
