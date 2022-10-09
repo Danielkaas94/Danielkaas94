@@ -2,6 +2,13 @@
 
 <div align="center">
 
+<div align="center">
+
+Maybe should I have some kind of text here... To be continued...
+
+</div>
+
+
 [<img width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png">](https://steamcommunity.com/id/Danielkaas94/)
 
 [<img width="70" src="https://nuphoriq.com/wp-content/uploads/2019/12/linkedin-icon2.svg">](https://www.linkedin.com/in/danielkaas94/)
