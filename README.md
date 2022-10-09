@@ -1,4 +1,8 @@
+<div align="center">
+
 ### ❤🧡💛💚💙💜🤍 ▁▂ ▃ ▅ ▆ █ Greetings all sentient beings █ ▆ ▅ ▃ ▂▁ 🤍💜💙💚💛🧡❤
+
+</div>
 
 <div align="center">
 
