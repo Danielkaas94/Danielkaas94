@@ -19,7 +19,7 @@ Maybe should I have some kind of text here... To be continued...
 
 [<img width="70" src="https://i0.wp.com/multarte.com.br/wp-content/uploads/2020/05/classic-youtube-icon-2.png?fit=512%2C512&ssl=1">](https://www.youtube.com/c/Danielkaas94) 
     
-[<img width="95" src="https://cdn.freebiesupply.com/images/large/2x/duolingo-logo-transparent.png">](https://www.duolingo.com/profile/Danielkaas94) 
+[<img width="95" src="https://cdn.freebiesupply.com/images/large/2x/duolingo-logo-transparent.png">](https://duome.eu/Danielkaas94) 
 
 [<img width="350" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg">](https://stackoverflow.com/users/6662872/daniel-kaas) 
     
