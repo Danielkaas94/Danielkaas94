@@ -38,9 +38,11 @@ Maybe should I have some kind of text here... To be continued...
 
 
 
+<div align='center'>
     
 ### [☯ David Lynch explains Transcendental Meditation ☯](https://youtu.be/Em3XplqnoF4)
 
+</div>
     
 
 <!--
