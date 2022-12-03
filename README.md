@@ -43,7 +43,13 @@ Maybe should I have some kind of text here... To be continued...
 ### [☯ David Lynch explains Transcendental Meditation ☯](https://youtu.be/Em3XplqnoF4)
 
 </div>
-    
+
+<p align="center"> 
+  Visitor count <br>
+  <img src="https://profile-counter.glitch.me/Danielkaas94/count.svg" />
+</p>
+
+
 
 <!--
 
