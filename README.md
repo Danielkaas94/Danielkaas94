@@ -7,8 +7,23 @@
 <div align="center">
 
 <div align="center">
+    
+Daniel er et hebræisk navn
+som betyder "Gud er min dommer".
 
-Maybe should I have some kind of text here... To be continued...
+Er ambitiøs, meget flittig og stræber
+efter berømmelse. Han er en meget
+charmerende taler, har et meget
+følelsesmæssigt væsen og er god til
+at omgås andre. Er lyttende og gør
+alt for familie og venner.
+
+
+
+Daniel er et navn
+man kan være stolt af.
+    
+<!-- Maybe should I have some kind of text here... To be continued... -->
 
 </div>
 
