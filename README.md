@@ -36,6 +36,8 @@ man kan være stolt af.
     
 [<img width="95" src="https://cdn.freebiesupply.com/images/large/2x/duolingo-logo-transparent.png">](https://duome.eu/Danielkaas94) 
 
+[<img width="250" src="https://thezugzwangblog.com/wp-content/uploads/2017/09/chess-com-logo.png">](https://www.chess.com/member/danielkaas94) 
+
 [<img width="350" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg">](https://stackoverflow.com/users/6662872/daniel-kaas) 
     
 [<img width="350" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Codecademy.svg">](https://www.codecademy.com/profiles/Danielkaas94) 
