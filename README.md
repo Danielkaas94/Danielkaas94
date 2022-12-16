@@ -51,7 +51,7 @@ man kan være stolt af.
 </div>
 
 <p align='center'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielkaas94&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919&langs_count=25">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielkaas94&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919&langs_count=25&layout=compact">
 
 
 
