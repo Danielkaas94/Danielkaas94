@@ -67,7 +67,10 @@ man kan være stolt af.
   <img src="https://profile-counter.glitch.me/Danielkaas94/count.svg" />
 </p>
 
-
+# Glædelig Jul og Godt Nytår 🎅🎄🎁⛄🎆🆕🆙🎇🎉
+<!-- # God Påske 🐤🐣🐥 -->
+<!-- # God Sommer 🌻😎🌞 -->
+<!-- # God Efterår! 🎃🍁🍂 -->
 
 <!--
 
