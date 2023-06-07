@@ -74,10 +74,12 @@ man kan være stolt af.
 <div align="center">
 
 <!-- # Glædelig Jul og Godt Nytår 🎅🎄🎁⛄🎆🆕🆙🎇🎉 -->
-# [Det forår! God Påske 🌷🐤🐣🐥🌼](https://youtu.be/63ZhF59DcGE)
+<!-- # [Det forår! God Påske 🌷🐤🐣🐥🌼](https://youtu.be/63ZhF59DcGE) -->
 
+# God Sommer 🌻😎🌞
+    
 </div>
-<!-- # God Sommer 🌻😎🌞 -->
+
 <!-- # God Efterår! 🎃🍁🍂 -->
 
 <!--
