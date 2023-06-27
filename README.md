@@ -36,13 +36,15 @@ man kan være stolt af.
     
 [<img width="95" src="https://cdn.freebiesupply.com/images/large/2x/duolingo-logo-transparent.png">](https://duome.eu/Danielkaas94) 
 
+<a href="https://www.moddb.com/mods/thy-dark-rooms-of-finals" title="View ✝ Thy Dark Rooms of Finals ✝ on Mod DB" target="_blank"><img src="https://media.moddb.com/images/global/moddb.png" alt="✝ Thy Dark Rooms of Finals ✝" /></a>
+
 [<img width="250" src="https://thezugzwangblog.com/wp-content/uploads/2017/09/chess-com-logo.png">](https://www.chess.com/member/danielkaas94) 
 
 [<img width="350" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg">](https://stackoverflow.com/users/6662872/daniel-kaas) 
     
 [<img width="350" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Codecademy.svg">](https://www.codecademy.com/profiles/Danielkaas94) 
 
-[<img width="350" src="https://www.codewars.com/users/Danielkaas94/badges/large">](https://www.codewars.com/users/Danielkaas94) 
+[<img     width="350" src="https://www.codewars.com/users/Danielkaas94/badges/large">](https://www.codewars.com/users/Danielkaas94) 
 
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielkaas94&show_icons=true&theme=midnight-purple&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
