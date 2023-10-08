@@ -88,6 +88,29 @@ man kan være stolt af.
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
+
+
+# 🌟 Affirmation - Believe in Yourself 🌟
+
+<br>
+
+_**You are amazing just the way you are. <br/>Your uniqueness and strengths make a positive impact 
+on the world around you. <br/>You have the strength and resilience to overcome any challenges 
+that come your way. <br/>Remember to be kind to yourself and believe in your abilities. <br/>You are 
+worthy of love, success, and happiness. <br/>Keep shining brightly! 🌟**_
+
+<br>
+
+_**"I am capable and strong, and I have the power to create positive change in my life. <br/>Each day, 
+I am growing and learning, becoming the best version of myself. <br/>I embrace challenges as 
+opportunities for growth and face them with confidence. <br/>I am deserving of love, success, and 
+all the good things life has to offer. <br/>I believe in myself and my abilities, and I trust that I can 
+achieve my goals. <br/>I am resilient, and I will overcome any obstacles that come my way. 
+<br/>I radiate positivity and attract positivity into my life. 
+<br/>I am worthy, and I am enough. 
+<br/>Today and every day, I choose to embrace my greatness and live life to the fullest." 🌟**_
+
+# ❤🧡💛💚💙💜🤍 UNCONDITIONAL LOVE 🤍💜💙💚💛🧡❤
     
 </div>
 
