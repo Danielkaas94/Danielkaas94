@@ -110,7 +110,7 @@ achieve my goals. <br/>I am resilient, and I will overcome any obstacles that co
 <br/>I am worthy, and I am enough. 
 <br/>Today and every day, I choose to embrace my greatness and live life to the fullest." 🌟**_
 
-# ❤🧡💛💚💙💜🤍 UNCONDITIONAL LOVE 🤍💜💙💚💛🧡❤
+# ❤🧡💛💚💙💜🤍UNCONDITIONAL LOVE🤍💜💙💚💛🧡❤
     
 </div>
 
