@@ -68,6 +68,7 @@ man kan være stolt af.
 ### [Brian Tracy Leaves the Audience SPEECHLESS 🗣️](https://youtu.be/tBgsREyppuI?si=6b_Y1hq-BvEBIJg4)
 ### [🧘‍♂️ I Meditated, Now I Don’t Care Anymore 🧘‍♀️](https://youtu.be/NnTLJtBr1zo?si=ICO-sentvVo6GuxT)
 ### [👌🫰🖖🫶🙏 "You Will Awake Another Dimension" | Ancient NINJA HAND SPELLS 🙏🫶🖖🤞🤌](https://www.youtube.com/watch?v=xwXdVfGICyI)
+### [🙈 The Truth About Visualization & Manifestation 🙈](https://www.youtube.com/watch?v=gMBuMAtr8xk)
 
 </div>
 
