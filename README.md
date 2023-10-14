@@ -77,6 +77,14 @@ man kan være stolt af.
   <img src="https://profile-counter.glitch.me/Danielkaas94/count.svg" />
 </p>
 
+<div align="center"> 
+
+Counting visitors since 14th of October 2023 🏴‍☠️🚩
+<a href="https://info.flagcounter.com/NITf"><img src="https://s11.flagcounter.com/countxl/NITf/bg_861E8A/txt_FFFFFF/border_CCCCCC/columns_7/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Danielkaas94 Flag Counter" border="0"></a>
+
+</div>
+
+
 <div align="center">
 
 <!-- # Glædelig Jul og Godt Nytår 🎅🎄🎁⛄🎆🆕🆙🎇🎉 -->
