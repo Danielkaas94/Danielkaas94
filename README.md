@@ -32,7 +32,7 @@ man kan være stolt af.
 
 [<img width="70" src="https://nuphoriq.com/wp-content/uploads/2019/12/linkedin-icon2.svg">](https://www.linkedin.com/in/danielkaas94/)
 
-[<img width="70" src="https://i0.wp.com/multarte.com.br/wp-content/uploads/2020/05/classic-youtube-icon-2.png?fit=512%2C512&ssl=1">](https://www.youtube.com/c/Danielkaas94) 
+[<img width="70" src="https://www.macitynet.it/wp-content/uploads/2023/05/youtube-logo-1536x821.jpg">](https://www.youtube.com/c/Danielkaas94) 
     
 [<img width="95" src="https://cdn.freebiesupply.com/images/large/2x/duolingo-logo-transparent.png">](https://duome.eu/Danielkaas94) 
 
