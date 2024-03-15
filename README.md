@@ -97,9 +97,8 @@ Counting visitors since 14th of October 2023 🏴‍☠️🚩
 <div align="center">
 
 <!-- # Glædelig Jul og Godt Nytår 🎅🎄🎁⛄🎆🆕🆙🎇🎉 -->
-<!-- # [Det forår! God Påske 🌷🐤🐣🐥🌼](https://youtu.be/63ZhF59DcGE) -->
-
-# God Sommer 🌻😎🌞
+# [Det forår! God Påske 🌷🐤🐣🐥🌼](https://youtu.be/63ZhF59DcGE)
+<!-- # God Sommer 🌻😎🌞 -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
