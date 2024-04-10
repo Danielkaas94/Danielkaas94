@@ -79,6 +79,7 @@ man kan være stolt af.
 ### [🧘‍♂️ I Meditated, Now I Don’t Care Anymore 🧘‍♀️](https://youtu.be/NnTLJtBr1zo?si=ICO-sentvVo6GuxT)
 ### [👌🫰🖖🫶🙏 "You Will Awake Another Dimension" | Ancient NINJA HAND SPELLS 🙏🫶🖖🤞🤌](https://www.youtube.com/watch?v=xwXdVfGICyI)
 ### [🙈 The Truth About Visualization & Manifestation 🙈](https://www.youtube.com/watch?v=gMBuMAtr8xk)
+### [⏲️⏳📚 [Pomodoro Technique + Prompts] 25 Minutes of Focused Studying 📚⏳⏲️](https://www.youtube.com/watch?v=0HtrKObErnE)
 
 </div>
 
