@@ -130,7 +130,19 @@ achieve my goals. <br/>I am resilient, and I will overcome any obstacles that co
 <br/>Today and every day, I choose to embrace my greatness and live life to the fullest." 🌟**_
 
 # ❤🧡💛💚💙💜🤍UNCONDITIONAL LOVE🤍💜💙💚💛🧡❤
-    
+
+Ahala ahalago naashá ghą
+<br/>Shí naashá ghą, shí naashá ghą,
+<br/>Shí naashá lágo hózhǫ’ la.
+<br/>Shí naashá ghą, shí naashá ghą,
+<br/>Shí naashá, ladee hózhǫ’ǫ’ lá
+
+I am going in freedom
+<br/>I am going, I am going,
+<br/>I am going in beauty.
+<br/>I am going, I am going,
+<br/>I am going, beauty is all around me.
+
 </div>
 
 <!-- # God Efterår! 🎃🍁🍂 -->
