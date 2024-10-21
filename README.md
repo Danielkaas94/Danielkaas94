@@ -55,6 +55,8 @@ man kan være stolt af.
 
 [<img     width="350" src="https://www.codewars.com/users/Danielkaas94/badges/large">](https://www.codewars.com/users/Danielkaas94) 
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/danielkaas1994.png" alt="Your Image Badge" />
+
 ---
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielkaas94&show_icons=true&theme=midnight-purple&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
