@@ -55,7 +55,11 @@ man kan være stolt af.
 
 [<img     width="350" src="https://www.codewars.com/users/Danielkaas94/badges/large">](https://www.codewars.com/users/Danielkaas94) 
 
+<!-- Old TryHackMe Badge 
 <img src="https://tryhackme-badges.s3.amazonaws.com/danielkaas1994.png" alt="Your Image Badge" />
+-->
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/danielkaas1994.png?update=0" alt="Your Image Badge" />
 
 ---
     
