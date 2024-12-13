@@ -138,6 +138,8 @@ achieve my goals. <br/>I am resilient, and I will overcome any obstacles that co
 
 # ❤🧡💛💚💙💜🤍UNCONDITIONAL LOVE🤍💜💙💚💛🧡❤
 
+# 🖤🩵💛🤍
+
 Ahala ahalago naashá ghą
 <br/>Shí naashá ghą, shí naashá ghą,
 <br/>Shí naashá lágo hózhǫ’ la.
@@ -149,6 +151,10 @@ I am going in freedom
 <br/>I am going in beauty.
 <br/>I am going, I am going,
 <br/>I am going, beauty is all around me.
+
+### [🥁🎶🎵 ‘​​Shí Naashá’ by Radmilla Cody featuring Mattee Jim and Stella Martin 🎵🎶🥁](https://www.youtube.com/watch?v=6pn5kZOyIrM)
+
+# 🖤🩵💛🤍
 
 </div>
 
