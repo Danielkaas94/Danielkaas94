@@ -158,6 +158,7 @@ I am going in freedom
 
 # [The Grand Quote Collection 📜](https://github.com/Danielkaas94/Danielkaas94/blob/main/RAW/Quotes.md)
 
+## [🕊️🆓✌️ Goodbye Dorm Drama - Finding My Way Out of the Chaos ✌️🆓🕊️](https://github.com/Danielkaas94/DTAP/blob/main/GoodbyeDormDrama.md)
 
 
 </div>
