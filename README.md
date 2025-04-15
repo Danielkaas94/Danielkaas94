@@ -156,6 +156,10 @@ I am going in freedom
 
 # 🖤🩵💛🤍
 
+# [The Grand Quote Collection 📜](https://github.com/Danielkaas94/Danielkaas94/blob/main/RAW/Quotes.md)
+
+
+
 </div>
 
 <!-- # God Efterår! 🎃🍁🍂 -->
