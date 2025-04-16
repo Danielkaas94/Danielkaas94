@@ -13,7 +13,7 @@ I may not be PERFECT but i`m always ME
 ----FREEDOM  
 ---- JUSTICE  
 
-Knowledge is power, Wisdom is happiness and Truth is freedom
+Knowledge is power, Wisdom is happiness and Truth is freedom  
 Joy, Happiness, Confidence & Peace
 
 ---
