@@ -3,11 +3,15 @@
 Industrial Cybersecurity Technical Competence Center (ICS TCC) 
 Internship and bachelor project about SBOM and Vulnerability Management
 
+---
+
 - Commited GitLab square painter 🟦
 - Confidential stuff 🤫
 - [REDACTED] 🫥
 - Apprentice Keyboard Cleaner & Dust Wiper 🎹⌨️
 - Self appointed Sleeping ambassador 😴💤
+
+---
 
 - Cyber Defender by Day, Speed Enthusiast by Commute
 - Digital Ninja-in-Training (Specializing in Keeping the Bad Guys Out)
@@ -27,6 +31,8 @@ Internship and bachelor project about SBOM and Vulnerability Management
 - Security Sidekick-in-Training, Collecting Cyber Superpowers
 - Digital Defender-to-Be, Obsessed with Mastering the Matrix
 - Cybersecurity Padawan, Organizing the Chaos One Note at a Time
+
+---
 
 - Cybersecurity Speedster & Digital Road Warrior
 - Fast-Lane Cyber Cadet, Racing Toward Digital Security
