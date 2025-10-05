@@ -62,6 +62,7 @@ man kan være stolt af.
 <img src="https://tryhackme-badges.s3.amazonaws.com/danielkaas1994.png?update=0" alt="Your Image Badge" />
 
 ### Ethical 1337 H4ck3r, Full Stack Magician 🧙‍♂️ & Tech-Priest  ✝👨‍💻✝
+### Software Developer | IT Security Specialist | Digital Creator | Retail Investor
 
 ---
     
