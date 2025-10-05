@@ -61,6 +61,8 @@ man kan være stolt af.
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/danielkaas1994.png?update=0" alt="Your Image Badge" />
 
+### Ethical 1337 H4ck3r, Full Stack Magician 🧙‍♂️ & Tech-Priest  ✝👨‍💻✝
+
 ---
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielkaas94&show_icons=true&theme=midnight-purple&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
