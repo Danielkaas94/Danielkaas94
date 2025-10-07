@@ -112,7 +112,7 @@ In addition to technology, I have a wide range of interests, including languages
 
 <div align='center'>
 
-# [🐟✝️🐟 Watch The Chosen 🐟✝️🐟](https://watch.thechosen.tv/page/seasons%201-3)
+# [🐟✝️🐟 Watch The Chosen 🐟✝️🐟](https://watch.thechosen.tv/page/sson-1)
 ### [☯ David Lynch explains Transcendental Meditation ☯](https://youtu.be/Em3XplqnoF4)
 ### [♾ The Psychonaut Field Manual ♾](https://ia902904.us.archive.org/25/items/the_psychonaut_field_manual_fourth_pdf_edition_by_bluefluke-d8rjuxc/the_psychonaut_field_manual_fourth_pdf_edition_by_bluefluke-d8rjuxc.pdf)
 ### [Brian Tracy Leaves the Audience SPEECHLESS 🗣️](https://youtu.be/tBgsREyppuI?si=6b_Y1hq-BvEBIJg4)
