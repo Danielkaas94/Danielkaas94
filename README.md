@@ -73,7 +73,7 @@ man kan være stolt af.
 
 <div align="justify">
 
-# "Stay sane, make gains" 📈📊💰 | Myers-Briggs Type Indicator: [INFJ](https://www.16personalities.com/infj-personality)
+## "Stay sane, make gains" 📈📊💰 | Myers-Briggs Type Indicator: [INFJ](https://www.16personalities.com/infj-personality)
 
 I have a bachelor's degree in IT security from Business Academy Aarhus (completed January 2025) and am now looking for an opportunity to put my knowledge into practice. With a background in both software development and cybersecurity, I am eager to get started with a job where I can make a difference. 
 
