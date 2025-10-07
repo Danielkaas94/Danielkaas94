@@ -123,10 +123,12 @@ In addition to technology, I have a wide range of interests, including languages
 
 </div>
 
+<!-- Glitch project hosting is no longer available.
 <p align="center"> 
   Visitor count <br>
   <img src="https://profile-counter.glitch.me/Danielkaas94/count.svg" />
 </p>
+-->
 
 <div align="center"> 
 
