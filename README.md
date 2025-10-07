@@ -64,6 +64,36 @@ man kan være stolt af.
 ### Ethical 1337 H4ck3r, Full Stack Magician 🧙‍♂️ & Tech-Priest  ✝👨‍💻✝
 ### Software Developer | IT Security Specialist | Digital Creator | Retail Investor
 
+<br>
+
+---
+
+<br>
+
+
+<div align="justify">
+
+# "Stay sane, make gains" 📈📊💰 | Myers-Briggs Type Indicator: [INFJ](https://www.16personalities.com/infj-personality)
+
+I have a bachelor's degree in IT security from Business Academy Aarhus (completed January 2025) and am now looking for an opportunity to put my knowledge into practice. With a background in both software development and cybersecurity, I am eager to get started with a job where I can make a difference. 
+
+Until then, I'm keeping myself busy with things like VulnHub challenges, maintains my GitHub repositories, video editing for my YouTube channels, and game development in the form of mods and custom maps for classic games like [DOOM](https://en.wikipedia.org/wiki/Doom_(1993_video_game)).
+
+### 🔹 Experience & Focus Areas:
+- IT Security & Vulnerability Management (SBOM, Dependency Track, OT Security)
+- Software Development (C#, SQL, Python, Front-end)
+- Network Analysis & Penetration Testing (Wireshark, Kali Linux)
+- Version Control with Git
+
+### 🔹 Previous roles include:
+- Intern at Siemens Gamesa (SBOM & Vulnerability Management)
+- Full Stack Developer at EagleBurgmann KE A/S
+- Junior Software Developer at Vestjylland Forsikring
+
+In addition to technology, I have a wide range of interests, including languages, music (classical guitar 🎸 & piano 🎹), nature, investments and health.
+
+</div>
+
 ---
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielkaas94&show_icons=true&theme=midnight-purple&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
