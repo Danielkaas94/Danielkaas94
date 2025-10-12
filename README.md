@@ -171,6 +171,13 @@ achieve my goals. <br/>I am resilient, and I will overcome any obstacles that co
 <br/>I am worthy, and I am enough. 
 <br/>Today and every day, I choose to embrace my greatness and live life to the fullest." 🌟**_
 
+<br>
+
+### 🌟🌟🌟 NEVER AGAIN 🌟🌟🌟
+
+_**I will never again lose myself in the wrong <br/>relationship. I refuse to chase love that costs me my <br/>peace, and I will not settle for half-hearted effort or <br/>conditional affection. I know what I am worthy of, <br/>and I won't compromise it for anyone. My heart now <br/>belongs to peace, truth, and real love only.**_
+
+
 # ❤🧡💛💚💙💜🤍UNCONDITIONAL LOVE🤍💜💙💚💛🧡❤
 
 # 🖤🩵💛🤍
