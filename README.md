@@ -64,6 +64,7 @@ man kan være stolt af.
 
 ### Ethical 1337 H4ck3r, Full Stack Magician 🧙‍♂️ & Tech-Priest  ✝👨‍💻✝
 ### Software Developer | IT Security Specialist | Digital Creator | Retail Investor
+### IT Security Enthusiast | Pentesting & Vulnerability Research | NIS2 & ISO 27001
 
 <br>
 
