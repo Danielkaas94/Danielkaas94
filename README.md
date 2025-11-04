@@ -77,9 +77,9 @@ man kan være stolt af.
 
 ## "Stay sane, make gains" 📈📊💰 | Myers-Briggs Type Indicator: [INFJ](https://www.16personalities.com/infj-personality)
 
-I have a bachelor's degree in IT security from Business Academy Aarhus (completed January 2025) and I am now looking for an opportunity to put my knowledge into practice. With a background in both software development and cybersecurity, I am eager to get started with a job where I can make a difference. 
+I have a bachelor's degree in IT security from Business Academy Aarhus (completed January 2025) and I am now looking for an opportunity to put my knowledge into practice. With a background in both software development and cybersecurity, I am eager to get started with a job where I can make a difference. 👨‍💻
 
-Until then, I'm keeping myself busy with things like VulnHub challenges, maintains my GitHub repositories, video editing for my YouTube channels, and game development in the form of mods and custom maps for classic games like [DOOM](https://en.wikipedia.org/wiki/Doom_(1993_video_game)).
+Until then, I'm keeping myself busy with things like VulnHub challenges, maintains my GitHub repositories, video editing for my YouTube channels, and game development in the form of mods and custom maps for classic games like [DOOM](https://en.wikipedia.org/wiki/Doom_(1993_video_game)). 😈👿😈
 
 ### 🔹 Experience & Focus Areas:
 - IT Security & Vulnerability Management (SBOM, Dependency Track, OT Security)
@@ -92,7 +92,7 @@ Until then, I'm keeping myself busy with things like VulnHub challenges, maintai
 - Full Stack Developer at EagleBurgmann KE A/S
 - Junior Software Developer at Vestjylland Forsikring
 
-In addition to technology, I have a wide range of interests, including languages, music (classical guitar 🎸 & piano 🎹), nature, investments and health.
+In addition to technology, I have a wide range of interests, including languages, music (classical guitar 🎸 & piano 🎹), nature, health and retail investor since high school. 💸📈📉📈📊💰
 
 </div>
 
